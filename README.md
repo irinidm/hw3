@@ -11,4 +11,4 @@ IPM=0,738
 * ![sg21](https://user-images.githubusercontent.com/46749050/55652929-a5191800-57f5-11e9-9778-9f360908c03a.png)
 * ![sg22](https://user-images.githubusercontent.com/46749050/55651835-85ccbb80-57f2-11e9-8e0b-90cf4b5129f2.png)
 * ![sg23](https://user-images.githubusercontent.com/46749050/55651836-85ccbb80-57f2-11e9-8a4d-941cedc29d75.png)
- 
+ IPM=16,543
