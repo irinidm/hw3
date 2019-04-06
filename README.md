@@ -27,4 +27,9 @@ IPM=11,347
 
 Вывод: для XIX века более характерно употребление "понеже", для XX - "поскольку".
 
+ЧАСТЬ 1. ANTCONC
+Задание 4
+* ![konc il](https://user-images.githubusercontent.com/46749050/55672235-6ccf1380-58a1-11e9-8983-336f99daf13f.png)
+* ![konc otk](https://user-images.githubusercontent.com/46749050/55672236-6ccf1380-58a1-11e9-90cb-9f15a7981ac4.png)
+* ![konc tako](https://user-images.githubusercontent.com/46749050/55672237-6ccf1380-58a1-11e9-8e12-aacda1725714.png)
 
