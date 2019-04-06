@@ -34,3 +34,7 @@ IPM=11,347
 * ![konc otk](https://user-images.githubusercontent.com/46749050/55672236-6ccf1380-58a1-11e9-90cb-9f15a7981ac4.png)
 * ![konc tako](https://user-images.githubusercontent.com/46749050/55672237-6ccf1380-58a1-11e9-8e12-aacda1725714.png)
 
+Задание 5
+* ![2grams](https://user-images.githubusercontent.com/46749050/55672656-3b0c7b80-58a6-11e9-94be-299bebd3f321.png)
+* ![3grams](https://user-images.githubusercontent.com/46749050/55672657-3ba51200-58a6-11e9-8746-36137474210d.png)
+* ![4grams](https://user-images.githubusercontent.com/46749050/55672658-3ba51200-58a6-11e9-8ce6-ee79b8435524.png)
