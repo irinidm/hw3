@@ -38,3 +38,11 @@ IPM=11,347
 * ![2grams](https://user-images.githubusercontent.com/46749050/55672656-3b0c7b80-58a6-11e9-94be-299bebd3f321.png)
 * ![3grams](https://user-images.githubusercontent.com/46749050/55672657-3ba51200-58a6-11e9-8746-36137474210d.png)
 * ![4grams](https://user-images.githubusercontent.com/46749050/55672658-3ba51200-58a6-11e9-8ce6-ee79b8435524.png)
+
+Задание 6
+* ![coll1](https://user-images.githubusercontent.com/46749050/55672865-c850cf80-58a8-11e9-8ae7-1d8e9d10bb08.png)
+* ![coll2](https://user-images.githubusercontent.com/46749050/55672866-c850cf80-58a8-11e9-8f77-2d53413a59c1.png)
+* ![coll3](https://user-images.githubusercontent.com/46749050/55672867-c850cf80-58a8-11e9-89a2-f975cf5f77bc.png)
+
+ЧАСТЬ 3
+Предложенные для работы инструменты показались мне интересными. Особенно понравилась функция в google n-grams, позволяющая строить графики употребимости двух слов в одной системе координат: в НКРЯ такое сравнение осложнено тем, что для графиков каждого из слов берется разный масштаб. AntConc использую для работы над своей курсовой: программа помогает сравнить, как часто те или иные группы слов употребляются в разных текстах.
